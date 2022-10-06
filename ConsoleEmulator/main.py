@@ -2,7 +2,6 @@ import zipfile
 import archive
 import sys
 
-
 def main():
     name = sys.argv[1]
     with zipfile.ZipFile(name, 'r') as zip:
