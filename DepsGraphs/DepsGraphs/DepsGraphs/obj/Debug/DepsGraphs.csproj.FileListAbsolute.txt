@@ -1,8 +1,0 @@
-C:\Users\Fakyring\source\repos\ConfigComp\DepsGraphs\DepsGraphs\bin\Debug\DepsGraphs.exe.config
-C:\Users\Fakyring\source\repos\ConfigComp\DepsGraphs\DepsGraphs\bin\Debug\DepsGraphs.exe
-C:\Users\Fakyring\source\repos\ConfigComp\DepsGraphs\DepsGraphs\bin\Debug\DepsGraphs.pdb
-C:\Users\Fakyring\source\repos\ConfigComp\DepsGraphs\DepsGraphs\obj\Debug\DepsGraphs.csproj.AssemblyReference.cache
-C:\Users\Fakyring\source\repos\ConfigComp\DepsGraphs\DepsGraphs\obj\Debug\DepsGraphs.csproj.SuggestedBindingRedirects.cache
-C:\Users\Fakyring\source\repos\ConfigComp\DepsGraphs\DepsGraphs\obj\Debug\DepsGraphs.csproj.CoreCompileInputs.cache
-C:\Users\Fakyring\source\repos\ConfigComp\DepsGraphs\DepsGraphs\obj\Debug\DepsGraphs.exe
-C:\Users\Fakyring\source\repos\ConfigComp\DepsGraphs\DepsGraphs\obj\Debug\DepsGraphs.pdb
